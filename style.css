@@ -1,0 +1,24 @@
+*{
+    margin: auto;
+    padding: auto;
+    font-family: Arial;
+}
+
+body{
+    background: #ffffff;
+}
+
+h1{
+    padding-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contenedor{
+    max-width: 1000px;
+    text-align: left;
+}
+
+p{
+    margin-bottom: 10px;
+}
